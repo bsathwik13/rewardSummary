@@ -1,0 +1,13 @@
+.customer {
+    display: flex;
+    flex-direction: column;
+}
+.cust-table {
+    align-self: center;
+}
+.highlight {
+    font-weight: 600;
+}
+.month-reawrd {
+    margin-top: 24px;
+}
